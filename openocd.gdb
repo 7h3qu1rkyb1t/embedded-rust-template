@@ -36,5 +36,6 @@ monitor arm semihosting enable
 
 load
 
+# layout src
 # start the process but immediately halt the processor
 stepi
